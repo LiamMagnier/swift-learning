@@ -10,9 +10,12 @@ One folder per concept (`NotionXX-...`), in order:
 
 ```
 swift-learning/
+├── Checkpoint01-Integration-N1-N5/
 ├── Notion01-Bases-Syntaxe/              # basics & syntax
 ├── Notion02-Strings-Nombres-Booleens/   # strings, numbers, booleans
-└── Notion03-Conditions-boucles/         # conditionals & loops
+├── Notion03-Conditions-boucles/         # conditionals & loops
+├── Notion04-Fonctions-Paramètres/       # conditionals & loops
+└── Notion05-Collections/        # conditionals & loops
 ```
 
 Each folder holds the lesson code and a short practice project that applies it.
